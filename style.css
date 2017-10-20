@@ -1,0 +1,12 @@
+th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+    font-family: helvetica;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+h1 {
+    font-family: Helvetica;
+}
